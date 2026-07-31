@@ -63,7 +63,8 @@ public class Arrays {
 	
 	System.out.println("semester 3 - subject 4 Name and Subject 5 Names : "+semester [2][3][0]+", "+semester [2][4][0]);
 	System.out.println("semester 5 - subject 3 and Subject 6 marks : "+semester [4][2][1]+", "+semester [4][5][1]);
-	}};
+	}
+	};
 			
 			
 	
